@@ -10,3 +10,11 @@ First release, the library cames with the following features:
 - [x] SQL Injections prevention
 - [x] Session Hijacking prevention
 - [ ] Brute force attacks prevention
+
+
+## 0.0.2
+1. Fixed file paths for views.
+2. Feature: allow to disable auto routes (routes set by the library).
+3. Bugfix: disabled checks for the spam filter if the filter is disabled.
+4. Feature: added the set_value() function in the form views.
+5. Feature: added the anti spam filter.
