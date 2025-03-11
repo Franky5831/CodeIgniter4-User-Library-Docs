@@ -18,3 +18,7 @@ First release, the library cames with the following features:
 3. Bugfix: disabled checks for the spam filter if the filter is disabled.
 4. Feature: added the set_value() function in the form views.
 5. Feature: added the anti spam filter.
+
+
+## 0.0.3
+1. Bugfix: added the missing submit button for the register and login forms in case developer decides to disable the captchas.
