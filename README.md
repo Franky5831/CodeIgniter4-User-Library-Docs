@@ -1,5 +1,7 @@
 # Codeigniter 4 User Management Library
 
+Checkout the documentation [here](https://franky5831.github.io/CodeIgniter4-User-Library-Docs/).
+
 This is a library developed for Codeigniter 4 that will make the management of users in your application easier and more secure.
 
 The library will automatically manage the registration and login process, with security measures in pace.

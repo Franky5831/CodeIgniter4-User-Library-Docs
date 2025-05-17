@@ -22,3 +22,7 @@ First release, the library cames with the following features:
 
 ## 0.0.3
 1. Bugfix: added the missing submit button for the register and login forms in case developer decides to disable the captchas.
+
+
+## 0.0.3
+1. Bugfix: setted the default value for the `$userLibCaptcha` variable to false in the `App.php` file. When installed the library prompted an error because the keys for the captcha were not set.
